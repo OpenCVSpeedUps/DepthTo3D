@@ -1,0 +1,1 @@
+This speed-up is around 2.1 ms   (tested on: 17-11-2015)
